@@ -6,6 +6,8 @@
 https://hostingangular1.web.app/
 
 ## Backend : Firebase 
+## bdd link
+https://personne29200-default-rtdb.europe-west1.firebasedatabase.app/
 ## Frontend : Angular
 ## Design : Bootstrap
 ## Hosting : Firebase 
